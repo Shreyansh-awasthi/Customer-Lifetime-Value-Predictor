@@ -193,4 +193,5 @@ CLV distribution is highly right-skewed — majority of customers cluster near z
 - International customers (Sweden, Channel Islands) show significantly higher per-customer value than UK
 - 41.3% of customers are predicted as low value — indicating high churn rate typical of retail
 
-
+##Live Application
+Live Demo - [https://customer-lifetime-value-predictor-9knb7cd6yuhdoswmsktsgt.streamlit.app/]
