@@ -1,5 +1,3 @@
-# Customer-Lifetime-Value-Predictor
-Customer Lifetime Value prediction and Customer Segmentation using BG/NBD Gamma-Gamma ,XGBoost, and interactive Streamlit dashboard 
 # Customer Lifetime Value Prediction
 
 A complete end-to-end Customer Lifetime Value (CLV) prediction system built on real retail transaction data using statistical modeling and machine learning.
