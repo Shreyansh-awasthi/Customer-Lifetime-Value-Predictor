@@ -167,6 +167,65 @@ SHAP values confirm that low recency (recent purchase) has the strongest positiv
 ### Why Log Transformation
 CLV distribution is highly right-skewed — majority of customers cluster near zero with few extreme high-value outliers. Log transformation normalizes this distribution enabling XGBoost to learn patterns more effectively, resulting in R² improvement from 0.50 to 0.94.
 
+--
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/R²_Score-0.94-success?style=for-the-badge">
+</p>
+
+---
+
+## 🎯 Business Objective
+
+Acquiring new customers is expensive, but retaining valuable customers is even more critical.
+
+This project predicts future customer lifetime value using transaction history and customer behavior patterns, enabling businesses to:
+
+- Identify VIP customers
+- Optimize retention campaigns
+- Improve marketing ROI
+- Prioritize customer engagement efforts
+- Increase long-term profitability
+
+---
+
+## 🚀 Project Highlights
+
+✅ 1,067,371 Retail Transactions Analyzed
+
+✅ BG/NBD Purchase Frequency Modeling
+
+✅ Gamma-Gamma Monetary Value Prediction
+
+✅ XGBoost-Based CLV Estimation
+
+✅ R² Score of 0.94
+
+✅ Customer Segmentation Engine
+
+✅ Interactive Streamlit Dashboard
+
+✅ Business Recommendation System
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![Lifetimes](https://img.shields.io/badge/Lifetimes-00599C?style=for-the-badge)
+![BG/NBD](https://img.shields.io/badge/BG%2FNBD-0066CC?style=for-the-badge)
+![Gamma-Gamma](https://img.shields.io/badge/Gamma--Gamma-8A2BE2?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## Key Findings
