@@ -169,48 +169,6 @@ CLV distribution is highly right-skewed — majority of customers cluster near z
 
 --
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/R²_Score-0.94-success?style=for-the-badge">
-</p>
-
----
-
-## 🎯 Business Objective
-
-Acquiring new customers is expensive, but retaining valuable customers is even more critical.
-
-This project predicts future customer lifetime value using transaction history and customer behavior patterns, enabling businesses to:
-
-- Identify VIP customers
-- Optimize retention campaigns
-- Improve marketing ROI
-- Prioritize customer engagement efforts
-- Increase long-term profitability
-
----
-
-## 🚀 Project Highlights
-
-✅ 1,067,371 Retail Transactions Analyzed
-
-✅ BG/NBD Purchase Frequency Modeling
-
-✅ Gamma-Gamma Monetary Value Prediction
-
-✅ XGBoost-Based CLV Estimation
-
-✅ R² Score of 0.94
-
-✅ Customer Segmentation Engine
-
-✅ Interactive Streamlit Dashboard
-
-✅ Business Recommendation System
-
----
 
 ## 🛠️ Tech Stack
 
