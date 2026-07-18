@@ -6,7 +6,7 @@ A complete end-to-end Customer Lifetime Value (CLV) prediction system built on r
 
 ## Overview
 
-Customer Lifetime Value (CLV) measures how much revenue a customer is expected to generate over a given time period. This project predicts the 12-month CLV for each customer using a combination of statistical models and XGBoost, deployed as an interactive web application.. 
+Customer Lifetime Value (CLV) measures how much revenue a customer is expected to generate over a given time period. This project predicts the 12-month CLV for each customer using a combination of statistical models and XGBoost, deployed as an interactive web application.
 
 ---
 
